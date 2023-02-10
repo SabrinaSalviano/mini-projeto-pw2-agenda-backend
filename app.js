@@ -61,7 +61,7 @@ var swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3015',
+      url: 'https://api-agenda.onrender.com/',
       description: 'Development server',
     },
   ],
